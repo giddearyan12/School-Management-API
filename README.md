@@ -92,14 +92,6 @@ export default db;</code></pre>
             "latitude": 18.5204,
             "longitude": 73.8567,
             "distance": 0
-        },
-        {
-            "id": 2,
-            "name": "City Public School",
-            "address": "MG Road, Pune",
-            "latitude": 18.55,
-            "longitude": 73.88,
-            "distance": 3.45
         }
     ]
 }</code></pre>
@@ -120,8 +112,5 @@ export default db;</code></pre>
         <li>On validation failure: HTTP 400 with a helpful message.</li>
         <li>On server/DB errors: HTTP 500.</li>
     </ul>
-   
-
-    <h2>License</h2>
-    <p>MIT – use freely.</p>
 </body>
+
